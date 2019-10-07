@@ -1,0 +1,49 @@
+div.Wrapper *
+{
+    color: ghostwhite;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-image: url("../images/static.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+    }
+
+h1 {
+	display: inline;
+	margin: auto;
+	text-emphasis-color: ghostwhite;
+    
+}
+
+.jumbotron {
+	width: 600px;	
+	height: 500px;
+	margin: auto;
+	margin-top: 100px;
+	border: 1px solid gray;
+	opacity: .75;
+	background-image: url("../images/skull.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-decoration-color: ghostwhite;
+	text-emphasis-color: ghostwhite;
+	text-decoration-color: ghostwhite;
+}
+
+
+.main {
+	margin-top: 50px;
+}
+
+.answer:hover {
+  background: green;
+}
+
+.span {
+	text-emphasis-color: ghostwhite;
+}
